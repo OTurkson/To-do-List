@@ -63,7 +63,7 @@ Before running this application, make sure you have the following installed:
    ```properties
    spring.datasource.url=jdbc:mysql://localhost:3306/todo_app
    spring.datasource.username=root
-   spring.datasource.password=admin
+   spring.datasource.password=.....
    ```
 
 ## Installation & Running
